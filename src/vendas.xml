@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<venda moeda="Real">
+<venda moeda="Real" xsi:noNamespaceSchemaLocation="formatoVenda.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 	<formaDePagamento>Cartão</formaDePagamento>
 	<produtos>
 		<produto>
